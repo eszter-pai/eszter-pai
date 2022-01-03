@@ -2,7 +2,7 @@
 - 👀 I’m interested in supporting decision making with solid evidence.
 - 🌱 I’m currently learning and Data Analytics and Natural Language Processing.
 - 💞️ Skills in SQL, Python, Tableau, Python.
-- 📫 How to reach me : https://www.R.com/in/eszterpai/
+- 📫 How to reach me : eszterpai.com
 
 <!---
 eszter-pai/eszter-pai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
