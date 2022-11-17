@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eszter-pai
-- 👀 I’m interested in supporting decision making with solid evidence.
-- 🌱 I’m currently learning and Data Analytics and Natural Language Processing.
+- 👀 Master student at Uni Potsdam.Major in Cognitive System (Natural Language Processing and Artificial Intelligence)
+- 🌱 I’m a NLP enthusiast and interested in textual analysis and conversational AI.
 - 💞️ Skills in Python, Tableau, SQL, R.
 - 📫 How to reach me : https://www.linkedin.com/in/eszterpai/
 
