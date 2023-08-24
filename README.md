@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eszter-pai
-- 👀 Master student at Uni Potsdam.Major in Cognitive System (Natural Language Processing and Artificial Intelligence)
+- 👀 Master student at Uni Potsdam.Major in Cognitive Systems (Natural Language Processing and Artificial Intelligence)
 - 🌱 I’m a NLP enthusiast and interested in textual analysis and conversational AI.
 - 💞️ Skills in Python, Tableau, SQL, R.
 - 📫 How to reach me : https://www.linkedin.com/in/eszterpai/
