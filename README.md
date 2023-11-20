@@ -1,4 +1,4 @@
-- 👋 Eszter Pai
-- 👀 Master student at Uni Potsdam. Major in Cognitive Systems (Natural Language Processing and Artificial Intelligence)
-- 🌱 I’m a NLP enthusiast and interested in machine translation and conversational AI.
-- 📫 my [LinkedIn](https://www.linkedin.com/in/eszterpai/) and [Kaggle](https://www.kaggle.com/yinchienpai/code)
+- Eszter Pai
+- Master student at Uni Potsdam. Major in Cognitive Systems (Natural Language Processing and Artificial Intelligence)
+- I’m a NLP enthusiast and interested in machine translation and conversational AI.
+- my [LinkedIn](https://www.linkedin.com/in/eszterpai/) and [Kaggle](https://www.kaggle.com/yinchienpai/code)
